@@ -71,12 +71,15 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 # Após as credenciais estarem de acordo com seu banco de dados, execute as migrations para a criação das tabelas
 ❯ php artisan migrate
+
+# No Laravel é necessário gerar a chave de encriptação com o seguinte comando
+❯ php artisan key:generate
 ```
 
 **Iniciando o projeto**
 ```bash
 # Dentro da pasta do repositório (solumini), execute o comando abaixo e abra o endereço em seu navegador
-❯ php -S localhost:8000 -t .
+❯ php artisan serve
 ```
 
 ---
