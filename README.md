@@ -59,13 +59,13 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 **Criando o banco de dados**
 ```bash
-# Para criar o comando de dados, execute o comando abaixo
+# Para criar o banco de dados, execute o comando abaixo
 ❯ mysql -u <seu_usuario> -p <sua_senha> -e "create database solumini collate utf8_general_ci;"
 ```
 
 **Pré-configurações antes de iniciar o projeto**
 ```bash
-# Antes de iniciar o projeto, mude as credenciais do banco de após copiar 
+# Antes de iniciar o projeto, mude as credenciais do banco de dados após copiar o arquivo de configuração
 ❯ cp .env.example .env
 
 # Após as credenciais estarem de acordo com seu banco de dados, execute as migrations para a criação das tabelas
