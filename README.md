@@ -1,10 +1,9 @@
 <h2 align="center">Projeto - SoluMini</h2>
 
-___
 
 ## :information_source: Sobre
 
-Mais informações no arquivo solumini.md.html
+Mais informações no arquivo: [solumini.md](https://github.com/climatheus/solumini/blob/main/solumini.md)
 
 ---
 
