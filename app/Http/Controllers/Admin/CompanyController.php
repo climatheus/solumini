@@ -7,7 +7,6 @@ use App\Company;
 use App\Http\Controllers\Controller;
 use App\Http\Requests\CompanyRequest;
 use App\Phone;
-use Illuminate\Http\Request;
 
 class CompanyController extends Controller
 {

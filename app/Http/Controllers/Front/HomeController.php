@@ -6,7 +6,6 @@ use App\Category;
 use App\Company;
 use App\Contract;
 use App\Http\Controllers\Controller;
-use Illuminate\Support\Facades\DB;
 
 class HomeController extends Controller
 {
